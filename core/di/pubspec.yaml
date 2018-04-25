@@ -1,0 +1,14 @@
+name: lib.core.di
+description: A library containing what's needed to set up a dependency injection container.
+version: 0.0.1
+#homepage: https://www.example.com
+#author: marc <email@example.com>
+
+
+dependencies:
+  dioc: ^0.0.1
+  lib.core.shared:
+    path: ../shared
+
+dev_dependencies:
+  test: ^0.12.0

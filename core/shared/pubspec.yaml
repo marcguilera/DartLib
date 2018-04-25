@@ -1,0 +1,10 @@
+name: lib.core.shared
+description: Shared code between frontend and backend.
+version: 0.0.1
+#homepage: https://www.example.com
+#author: marc <email@example.com>
+
+dependencies:
+  meta: ^1.1.2
+  quiver: ^0.29.0
+  lazy: ^0.1.0

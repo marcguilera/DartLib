@@ -1,0 +1,17 @@
+name: lib.frontend.core.redux
+description: A starting point for Dart libraries or applications.
+version: 0.0.1
+#homepage: https://www.example.com
+#author: marc <email@example.com>
+
+dependencies:
+  built_redux: ^7.0.0
+  built_value: ^5.0.0
+  built_collection: ^3.0.0
+  redux_logging: ^0.1.4
+  reselect: ^0.2.1
+  lib.frontend.core.shared:
+    path: ../shared
+
+dev_dependencies:
+  test: ^0.12.0

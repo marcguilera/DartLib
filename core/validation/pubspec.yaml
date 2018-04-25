@@ -1,0 +1,10 @@
+name: lib.core.validation
+description: Code to validate all the things
+version: 0.0.1
+#homepage: https://www.example.com
+#author: marc <email@example.com>
+
+dependencies:
+  validator: ^0.0.7
+  lib.core.shared:
+    path: ../shared
